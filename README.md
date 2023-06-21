@@ -12,3 +12,6 @@ This component will return:
 - The number of following the user has
 - The username
 - And the registration date of the user
+
+![image](https://github.com/naverz-LeGrandMAG/ProfileLoader/assets/131629767/8191dd4c-dd0f-466e-998b-e9aec0bfbea6)
+
